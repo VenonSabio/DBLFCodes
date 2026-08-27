@@ -16,6 +16,6 @@ Changes made to `codes.json` are automatically loaded by active game servers wit
         "raceReroll": 1,
         "traitReroll": 1
       }
-    }
+    },
   }
 }
