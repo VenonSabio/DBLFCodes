@@ -56,6 +56,12 @@
         "zeni": 100000,
         "traitReroll": 15,
       }
+    },
+    "Rottaisanoob": {
+      "enabled": true,
+      "rewards", {
+        "zeni": 67,
+      }
     }
   }
 }
