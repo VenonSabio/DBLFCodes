@@ -1,0 +1,38 @@
+{
+  "codes": {
+    "SubscribeToVenonSabio!": {
+      "enabled": true,
+      "rewards": {
+        "zeni": 500000
+      }
+    },
+    "OMGITS10K": {
+      "enabled": true,
+      "rewards": {
+        "zeni": 400000,
+        "x2Xp": 1800
+      }
+    },
+    "Follow_ISonDevISI": {
+      "enabled": true,
+      "rewards": {
+        "zeni": 300000,
+        "x2Xp": 1200
+      }
+    },
+    "Follow_Knuppsama": {
+      "enabled": true,
+      "rewards": {
+        "zeni": 250000,
+        "raceReroll": 3
+      }
+    },
+    "SORRYFORDELAYOF11K": {
+      "enabled": true,
+      "rewards": {
+        "zeni": 350000,
+        "raceReroll": 2
+      }
+    },
+  }
+}
