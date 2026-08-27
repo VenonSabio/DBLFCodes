@@ -40,6 +40,15 @@
         "zeni": 350000,
         "raceReroll": 2
       }
+    },
+    "FORCESBIRTHDAY": {
+      "enabled": true,
+      "rewards": {
+        "zeni": 500000,
+        "raceReroll": 5,
+        "traitReroll": 5,
+        "x2Xp": 1200
+      }
     }
   }
 }
