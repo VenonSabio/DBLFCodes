@@ -49,6 +49,13 @@
         "traitReroll": 5,
         "x2Xp": 1200
       }
+    },
+    "UPDATEPLS": {
+      "enabled": true,
+      "rewards": {
+        "zeni": 100000,
+        "traitReroll": 15,
+      }
     }
   }
 }
