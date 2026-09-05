@@ -62,6 +62,14 @@
       "rewards": {
         "zeni": 67
       }
+    },
+    "Piraisbignoob": {
+      "enabled": true,
+      "rewards": {
+        "zeni": 676767
+        "traitrerolls": 67
+        "racererolls": 67
+      }
     }
   }
 }
