@@ -40,36 +40,6 @@
         "zeni": 350000,
         "raceReroll": 2
       }
-    },
-    "FORCESBIRTHDAY": {
-      "enabled": true,
-      "rewards": {
-        "zeni": 500000,
-        "raceReroll": 5,
-        "traitReroll": 5,
-        "x2Xp": 1200
-      }
-    },
-    "UPDATEPLS": {
-      "enabled": true,
-      "rewards": {
-        "zeni": 100000,
-        "TraitReroll": 15
-      }
-    },
-    "Rottaisanoob": {
-      "enabled": true,
-      "rewards": {
-        "zeni": 67
-      }
-    },
-    "Piraisbignoob": {
-      "enabled": true,
-      "rewards": {
-        "zeni": 676767
-        "traitrerolls": 67
-        "racererolls": 67
-      }
     }
   }
 }
