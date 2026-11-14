@@ -27,6 +27,13 @@
         "raceReroll": 3
       }
     },
+    "GoatedDan": {
+      "enabled": true,
+      "rewards": {
+        "zeni": 350000,
+        "traitReroll": 14
+      }
+    },
     "UPDATE15": {
       "enabled": true,
       "rewards": {
