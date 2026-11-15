@@ -34,6 +34,13 @@
         "traitReroll": 14
       }
     },
+    "BUGFIXES": {
+      "enabled": true,
+      "rewards": {
+        "zeni": 550000,
+        "traitReroll": 67
+      }
+    },
     "UPDATE15": {
       "enabled": true,
       "rewards": {
