@@ -34,11 +34,11 @@
         "traitReroll": 14
       }
     },
-    "BUGFIXES": {
+    "OPTIMIZATIONS!": {
       "enabled": true,
       "rewards": {
-        "zeni": 550000,
-        "traitReroll": 67
+        "zeni": 1250000,
+        "traitReroll": 97
       }
     },
     "BUGFIXES2": {
